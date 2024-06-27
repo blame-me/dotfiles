@@ -1,2 +1,1 @@
-# dotfiles
-Configuration files for arch linux
+Dark Theme for DE Hyprland
