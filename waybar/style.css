@@ -20,14 +20,14 @@ window#waybar {
   font-weight: bolder;
   background-color: transparent;
   border: transparent;
-  color: #fff;
+  color: grey;
 }
 
 #workspaces button.active,
 #workspaces button.focused {
   color: #fff;
   padding: 0 16px;
-  border-bottom: 0.4px solid #fff;
+  /* border-bottom: 0.4px solid #fff; */
 }
 
 #tray,
